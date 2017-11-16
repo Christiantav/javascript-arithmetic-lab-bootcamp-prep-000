@@ -3,19 +3,11 @@ function add(a, b){
   number = a + b;
   return number;
 }
-<<<<<<< HEAD
 function subtract(a, b){
   number = a - b;
   return number;
 }
-function multiply(a, b){
-=======
-function subtract(a, b){ 
-  number = a - b;
-  return number;
-}
 function multiply(a, b){ 
->>>>>>> a1cdf23660d10c3dd7a143087d605438e632c1b1
   number = a * b;
   return number;
 }
